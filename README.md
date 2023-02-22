@@ -14,6 +14,8 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+<p> Hey there👋 </p><p>I’m Magdalena and I make first steps as Junior Frontend Defeloper in the Universe of programming! I'm open to cooperation. I constatly learn new things and expend my skills. </p>
 
 
 
