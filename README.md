@@ -1,4 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="100" />
+  
+  <div id="badges" style="margin-top: 10%">
+    <a href="http://www.linkedin.com/in/magdalenama%C5%82ek">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <p> Hey there👋<p>
+</div>
+
+
+### 
+
 
 <!--
 **magdalena3546/magdalena3546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
