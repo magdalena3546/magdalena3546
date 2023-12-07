@@ -17,7 +17,7 @@
 ---
 ### :woman_technologist: About Me :
 
-<p>I’m Magdalena and I make first steps as Junior Frontend Developer in the Universe of programming! I'm open to cooperation. I constantly learn new things and expand my skills. </p>
+<p>I’m Magdalena and I make first steps as Junior in the Universe of programming! I'm open to cooperation. I constantly learn new things and expand my skills. </p>
 
 - 💻 Love programming <br/>
 
