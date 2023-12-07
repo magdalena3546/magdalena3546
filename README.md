@@ -23,9 +23,9 @@
 
 - 🤝 I’m looking for intership or first job as a Junior <br/>
 
-- :books: Currently learning ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) and exploring Pixel Art World <br/>
+- :books: Currently learning MySQL and C# <br/>
 
-- :school_satchel: I'm starting my IT studies in October <br/>
+- :school_satchel: I study IT <br/>
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](http://www.linkedin.com/in/magdalenama%C5%82ek))
 
