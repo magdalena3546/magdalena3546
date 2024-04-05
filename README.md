@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for intership or first job as a Junior <br/>
 
-- :books: Currently learning MySQL and C# <br/>
+- :books: Currently learning MySQL, C# and Python <br/>
 
 - :school_satchel: I study IT <br/>
 
